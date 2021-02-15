@@ -1,0 +1,10 @@
+ffprobe==0.5
+ftransc==7.0.3
+google-cloud-speech==2.0.1
+google-cloud-storage==1.36.0
+google-cloud-texttospeech==2.2.0
+google-cloud-translate==2.0.1
+pydub==0.24.1
+pykakasi==2.0.6
+python-telegram-bot==13.2
+

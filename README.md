@@ -6,4 +6,5 @@ For details on how to set up, please visit:<br>
 https://towardsdatascience.com/heres-your-personal-telegram-bot-to-learn-new-language-4c874252c744
 
 <br>
+
 ![image](second_option_resized.gif)

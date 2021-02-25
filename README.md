@@ -7,4 +7,4 @@ https://towardsdatascience.com/heres-your-personal-telegram-bot-to-learn-new-lan
 
 <br>
 
-![image](second_option_resized.gif)
+![image](https://miro.medium.com/max/600/1*jPJVhIta5l3B5LqZThvsvw.gif)
